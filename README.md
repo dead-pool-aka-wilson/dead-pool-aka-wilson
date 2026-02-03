@@ -38,37 +38,63 @@
 ## 🎟️ BOX OFFICE NUMBERS
 
 <p align="center">
-  <em>*[DEADPOOL pulls out a crumpled piece of paper]*</em>
+  <em>*[DEADPOOL pulls out a crumpled piece of paper, squints at it, then crumples it more]*</em>
 </p>
 
-> **DEADPOOL:** Let's check the numbers, shall we? 
-> These are my "GitHub Stats" — which is corpo-speak for 
-> "how much mass murder have you committed in the terminal."
+> **DEADPOOL:** Let's check the numbers, shall we?
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dead-pool-aka-wilson&theme=radical&show_icons=true&hide_border=true&bg_color=0d1117" alt="Box Office Numbers"/>
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                    📊 GITHUB STATS 📊                         ║
+╠═══════════════════════════════════════════════════════════════╣
+║                                                               ║
+║   Total Commits .............. [REDACTED BY WEAPON X]         ║
+║   Mass Bug Murders ........... Yes                            ║
+║   Stars Collected ............ Not enough                     ║
+║   Contribution Streak ........ "It's complicated"             ║
+║   Times Mass-Committed ....... Don't ask                      ║
+║   Repos Destroyed ............ Legally I can't say            ║
+║                                                               ║
+║   ⚠️  Stats widget broke. Just like my fourth wall.           ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dead-pool-aka-wilson&theme=radical&hide_border=true&background=0d1117" alt="Streak Stats"/>
+  <em>*[Taps the broken widget aggressively]*</em>
 </p>
+
+> **DEADPOOL:** Oh, the stats aren't loading? SHOCKING. 
+> GitHub's API looked at my commit history and went into witness protection.
+>
+> It's fine. I didn't want you to see those numbers anyway.
+> 
+> *[whispers]* They were too powerful.
 
 <p align="center">
-  <em>*[Squints at the stats]*</em>
+
+```
+🔥 CONTRIBUTION GRAPH 🔥
+       (artist's interpretation)
+
+  ░░█░░░░█░░░░░█░░░█░░░░█░░░░░█░░░░
+  ░█░█░░█░█░░░█░█░█░█░░█░█░░░█░█░░░
+  █░░░███░░░██░░░█░░░███░░░██░░░███
+  
+  Translation: "chaotic but dedicated"
+```
+
 </p>
 
-> **DEADPOOL:** See those green squares down there? Each one represents 
+> **DEADPOOL:** See those green squares? Each one represents 
 > a mass grave of bugs I've personally murdered. You're welcome, society.
 >
-> The streaks? That's called *commitment*, baby. 
-> Or a crippling inability to touch grass. Same thing, really.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dead-pool-aka-wilson&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Languages"/>
-</p>
-
-> **DEADPOOL:** "Top Languages." Like I'm some kind of polyglot. 
-> Spoiler: I speak fluent sarcasm and mass-commit energy.
+> The pattern spells out "HELP ME" in morse code. 
+> Just kidding. It spells "CHIMICHANGA."
 
 ---
 
@@ -80,25 +106,47 @@
 
 > **DEADPOOL:** *In a world... where code compiles on the first try...*
 > 
-> Just kidding. That world doesn't exist. But these projects? 
-> These beautiful disasters? They're REAL.
+> Just kidding. That world doesn't exist. 
 
 <p align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dead-pool-aka-wilson&repo=REPO_NAME_HERE&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/dead-pool-aka-wilson/REPO_NAME_HERE)
+```
+┌─────────────────────────────────────────────────────────────┐
+│  🎬 FEATURED FILM #1                                        │
+│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  │
+│                                                             │
+│  Title: [COMING SOON]                                       │
+│  Genre: Probably chaos                                      │
+│  Rating: ⭐⭐⭐⭐⭐ (self-reviewed)                          │
+│  Status: The director is "working on it"                    │
+│                                                             │
+│  🍿 Trailer: "Trust me bro"                                 │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────┐
+│  🎬 FEATURED FILM #2                                        │
+│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  │
+│                                                             │
+│  Title: [ALSO COMING SOON]                                  │
+│  Genre: "It's not a bug, it's a feature"                    │
+│  Rating: ⭐⭐⭐⭐💀 (one skull for artistic integrity)       │
+│  Status: Exists in a quantum state                          │
+│                                                             │
+│  🍿 Trailer: 404 Not Found                                  │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
 
 </p>
 
-<p align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dead-pool-aka-wilson&repo=ANOTHER_REPO_HERE&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/dead-pool-aka-wilson/ANOTHER_REPO_HERE)
-
-</p>
-
-> **DEADPOOL:** Replace those placeholders with your actual repos, genius.
-> I'm an actor, not a mind reader. 
+> **DEADPOOL:** Look, the repo cards *would* be here, but GitHub's 
+> widget API saw my code and filed a restraining order.
+>
+> These placeholder boxes? *Chef's kiss.* 
+> They're like movie posters for films that don't exist yet.
 > 
-> *[whispers to camera]* I'm also not real but we don't talk about that.
+> *[whispers to camera]* Kind of like my will to use proper git messages.
 
 ---
 
