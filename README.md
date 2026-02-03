@@ -225,10 +225,13 @@
 
                     F I L M   C R E W
 
-        Cinematographer ............... Claude (AI)
-        Sub-Director .................. Also Claude  
-        Scenario Writer ............... Still Claude
-        Key Grip ...................... Claude again
+        Cinematographer ............... Raoul
+        Sub-Director .................. Claude  
+        Scenario Writer ............... OpenAI
+        Lighting ...................... Kimi
+        Sound Designer ................ Copilot
+        VFX Artist .................... Gemini
+        Intern ........................ Ollama
         Catering ...................... Stack Overflow
         Emotional Support ............. Chimichangas
         Legal Counsel ................. Wikihow articles
